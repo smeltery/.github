@@ -40,7 +40,7 @@ Small, focused command-line tools.
 
 - [**configsync**](https://github.com/smeltery/configsync) — sync macOS app settings across machines.
 - [**gh-identity**](https://github.com/smeltery/gh-identity) · [**awsw**](https://github.com/smeltery/awsw) — per-directory GitHub identities and fast AWS/EKS context switching.
-- [**glimpse**](https://github.com/smeltery/glimpse) · [**yeet**](https://github.com/v/yeet) — a browser-based git diff viewer and a terminal macOS app uninstaller.
+- [**glimpse**](https://github.com/smeltery/glimpse) · [**yeet**](https://github.com/smeltery/yeet) — a browser-based git diff viewer and a terminal macOS app uninstaller.
 - [**fugue**](https://github.com/smeltery/fugue) · [**prr**](https://github.com/smeltery/prr) — a ghost mode for you AI coding agents, and run AI code reviews on your PRs.
 
 ## Find us on the command-line

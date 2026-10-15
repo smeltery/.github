@@ -43,14 +43,6 @@ Small, focused command-line tools.
 - [**glimpse**](https://github.com/smeltery/glimpse) · [**yeet**](https://github.com/smeltery/yeet) — a browser-based git diff viewer and a terminal macOS app uninstaller.
 - [**fugue**](https://github.com/smeltery/fugue) · [**prr**](https://github.com/smeltery/prr) — a ghost mode for you AI coding agents, and run AI code reviews on your PRs.
 
-## Find us on the command-line
-
-With a recent npm installed, say hello:
-
-```sh
-npx smeltery
-```
-
 ## Explore
 
 📦 [Browse all repositories](https://github.com/orgs/smeltery/repositories)
